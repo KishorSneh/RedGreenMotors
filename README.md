@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/images/banner.png" alt="RedGreenMotors" width="100%" />
-</p>
 
 <h1 align="center">RedGreenMotors</h1>
 
